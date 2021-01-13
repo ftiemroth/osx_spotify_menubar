@@ -9,7 +9,7 @@ You can also play/pause and change to next/previous track.
 ![demo](https://github.com/ftiemroth/osx_spotify_menubar/blob/main/demo/demo.gif?raw=true)
 
 ## Compatibilty
-Tested on macOS Catalina (10.15.7)
+Tested on macOS Catalina (10.15.7) and Big Sur (11.1)
 
 Not tested on older versions yet (pending)
 
