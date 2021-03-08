@@ -1,7 +1,7 @@
 # osx_spotify_menubar
 
 ## About
-Rumps based app to display the current song from Spotify on the menu bar. 
+[RUMPS](https://github.com/jaredks/rumps) based app to display the current song from Spotify on the menu bar. 
 
 You can also play/pause and change to next/previous track.
 
